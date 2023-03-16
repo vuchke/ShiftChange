@@ -38,22 +38,22 @@
       <h2>Vertikal</h2>
       <div class="contentContainer">
         <div class="">
-          <h3 class="machineName">VLV-01</h3>
+          <h3 class="machineName">LV-01</h3>
           <MachineDetails :currentMachine="'VLV-01'" />
         </div>
 
         <div class="">
-          <h3 class="machineName">VLV-02</h3>
+          <h3 class="machineName">LV-02</h3>
           <MachineDetails :currentMachine="'VLV-02'" />
         </div>
 
         <div class="">
-          <h3 class="machineName">VLV-03</h3>
+          <h3 class="machineName">LV-03</h3>
           <MachineDetails :currentMachine="'VLV-03'" />
         </div>
 
         <div class="">
-          <h3 class="machineName">VLV-04</h3>
+          <h3 class="machineName">LV-04</h3>
           <MachineDetails :currentMachine="'VLV-04'" />
         </div>
       </div>
