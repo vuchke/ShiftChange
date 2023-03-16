@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [vue()],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('/ShiftChange/', import.meta.url))
+      '@': fileURLToPath(new URL('/shiftChange/', import.meta.url))
     }
   }
 })
